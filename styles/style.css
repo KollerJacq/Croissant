@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: rgb(175, 127, 67);
+}
+h2 {
+  color: rgb(255, 140, 0);
+  opacity: 0.4;
+}
+a {
+  text-decoration: underline;
+  color: rgb(168, 101, 0);
+}
+a:hover {
+  text-decoration: none;
+}
+p {
+  color: rgb(148, 104, 51);
+}
+img {
+  margin-top: 70px;
+  width: 500px;
+  height: 500px;
+}
